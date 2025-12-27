@@ -1,5 +1,4 @@
-# .Introcourse
-# 🐍 Introducción a la Programación con Python
+# .🐍 Introducción a la Programación con Python
 
 Bienvenido al repositorio oficial del curso. Aquí encontrarás todo el material necesario, desde la teoría hasta los ejercicios prácticos que gestionaremos a través de **GitHub Classroom**.
 
